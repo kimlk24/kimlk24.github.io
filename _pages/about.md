@@ -1,22 +1,19 @@
 ---
 
-title: "About David Florian"
+title: "About Luke Kim"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Luke prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and CAD software. 
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE Mechanical Engineering May 2024
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Luke can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. Luke has experience with the following additive manufacturing technologies:
 
 * Fused Filament Fabrication (FFF)
 * Stereolithography (SLA)
