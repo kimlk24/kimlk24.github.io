@@ -22,5 +22,4 @@ Luke can operate a number of different softwares including SolidWorks, Fusion 36
 
 ## Portriat 
 
-![Luke Kim]
-(/assets/img/PS-pic-JPEG.jpeg)
+![Luke Kim](/assets/img/PS-pic-JPEG.jpeg)
