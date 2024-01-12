@@ -6,20 +6,19 @@ title: "About Luke Kim"
 
 ## Education
 
-Luke prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and CAD software. 
+Luke prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and CAD software. But his diverse experience in electrical engineering, business, and finance helps him to approach mechanical engineering problems more holistically.
 
 * Vanderbilt University
   * BE Mechanical Engineering May 2024
 
 ## Technical Skills
 
-Luke can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. Luke has experience with the following additive manufacturing technologies:
+Luke can operate a number of different softwares including SolidWorks, Fusion 360, MATLAB, Arduino IDE, and much more. Additionally, he has various experince using prototyping tools such as:
 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Laser Cutting
+* Wiring tools (soldering iron, crimpers, breadboards, etc.)
+* Woodworking tools (saws, power tools, specialty tools)
 
 ## Portriat 
 
