@@ -6,7 +6,7 @@ title: "About Luke Kim"
 
 ## Education
 
-Luke prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and CAD software. But his diverse experience in electrical engineering, business, and finance helps him to approach mechanical engineering problems more holistically.
+Luke prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing), mechatronics, and CAD software. But his diverse experience in electrical engineering, business, and finance helps him to approach mechanical engineering problems more holistically.
 
 * Vanderbilt University
   * BE Mechanical Engineering May 2024
@@ -22,4 +22,5 @@ Luke can operate a number of different softwares including SolidWorks, Fusion 36
 
 ## Portriat 
 
-![Luke Kim](assets/img/PS pic JPEG.jpeg)
+![Luke Kim]
+(assets/img/PS pic JPEG.jpeg)
