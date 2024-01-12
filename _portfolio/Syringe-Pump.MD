@@ -3,6 +3,7 @@ title: "Programmable Syringe Pump"
 excerpt: "DIY programmable syringe pump capable of 1 uL / min flow rate up to 10 mL / min."
 header:
   image: /assets/img/Linear Actuator Assembly v8.png
+
 # Features
 
 * **Programmable flow rate.** Capable of flow rates as low as 1 uL / min to 10 mL / min and able to switch between two different syringe pump sizes.
@@ -19,7 +20,7 @@ header:
 * **Rapidly prototyped** custom parts by utilizing **3D printers**
 * **Programmed** and **wired** a stepper motor, LEDs, a switch, power supply, and buttons using an **Arduino** using custom code
 
-#Results
+# Results
 
 * Sucsessfully designed, built, and tested a programmable syringe pump device capable of flow rates as low as 1 uL / min with high accuracy.
 
