@@ -2,10 +2,10 @@
 title: "Lightbox Testing Fixture"
 excerpt: "A modification to an existing fixture to increase the ease of use and consinsency."
 header:
-  image: /assets/img/Lightbox Fixture Rendering.png
-  teaser: /assets/img/Lightbox Fixture Rendering.png
+  image: /assets/img/Lightbox Fixture Rendering.PNG
+  teaser: /assets/img/Lightbox Fixture Rendering.PNG
 gallery:
-  - image_path: assets/img/Lightbox Fixture Rendering.png
+  - image_path: assets/img/Lightbox Fixture Rendering.PNG
   - image_path: assets/img/Installed lightbox modification.jpg
 ---
 
