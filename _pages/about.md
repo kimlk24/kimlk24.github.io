@@ -41,4 +41,4 @@ SolidWorks Associate Certification for Mechanical Design
 
 ## Portriat 
 
-/assets/img/PS-pic-JPEG.jpeg
+assets/img/PS-pic-JPEG.jpeg
