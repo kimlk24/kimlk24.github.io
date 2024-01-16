@@ -11,12 +11,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luke Kim"
+title                    : "David Florian"
 title_separator          : "-"
-subtitle                 : "Mechanical Engineer"
-name                     : &name "Luke Kim" # &name is a YAML anchor which can be *referenced later
-description              : &description "Engineering Portfolio"
-url                      : https://kimlk24.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "Example Website for Class"
+name                     : &name "David Florian" # &name is a YAML anchor which can be *referenced later
+description              : &description "Example website for class "
+url                      : https://davidflorianjr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - ""
+    - "https://www.instagram.com/dr.dflo"
 
 # Analytics
 analytics:
@@ -97,14 +97,16 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "/assets/img/PS-pic-JPEG.jpeg"
-  bio              : "Mechanical Engineer"
+  avatar           : "assets/img/David_Headshot_web2.jpg"
+  bio              : "An engineer with a passion for teaching "
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://kimlk24.github.io/"
-
+      url: "https://github.com/DrD-Flo"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dr.dflo"
 
 
 # Site Footer
@@ -112,7 +114,10 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://kimlk24.github.io/"
+      url: "https://github.com/DrD-Flo"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dr.dflo"
 
 
 # Reading Files
