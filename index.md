@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Engineering Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Luke Kim is a senior at Vanderbilt Univeristy studying mechanical engineering. His area of expertise is hands-on rapid prototyping, inclusing CAD, 3D printing, and mechatronics.."
+excerpt: "Luke Kim is a senior at Vanderbilt Univeristy studying mechanical engineering. His area of expertise is hands-on rapid prototyping, inclusing CAD, 3D printing, and mechatronics."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
