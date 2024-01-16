@@ -2,7 +2,7 @@
 title: "Programmable Syringe Pump"
 excerpt: "DIY programmable syringe pump capable of 1 uL / min flow rate up to 10 mL / min."
 header:
-  image: /assets/img/Linear Actuator Assembly v8.png
+  image: /assets/img/syringe pump banner picture.jpg
   teaser: /assets/img/Linear Actuator Assembly v8.png
 ---
 
