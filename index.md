@@ -10,10 +10,10 @@ header:
       url: "/portfolio/"
 excerpt: "Luke Kim is a senior at Vanderbilt Univeristy studying mechanical engineering. His area of expertise is hands-on rapid prototyping, inclusing CAD, 3D printing, and mechatronics."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+  - image_path: assets/img/Linear Actuator Assembly v8.png
+    alt: "Syringe Pump"
+    title: "Programmable Syringe Pump Device"
+    excerpt: "Capable of administering as low as 1 uL / min."
   - image_path: assets/img/Plasma-Cutter-Banner.jpg
     alt: "placeholder image 2"
     title: "DIY Plasma Cutter"
