@@ -13,14 +13,14 @@ feature_row:
   - image_path: assets/img/Linear Actuator Assembly v8.png
     alt: "Syringe Pump"
     title: "Programmable Syringe Pump Device"
-    excerpt: "Capable of administering as low as 1 uL / min."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+    excerpt: "Capable of administering as low as 1 uL / min to 10 mL / min."
+  - image_path: assets/img/Lightbox Fixture Rendering.PNG
+    alt: "Lightbox Fixture"
+    title: "Lightbox Fixture"
+    excerpt: "A reliable fixture which tests the characteristics of solar panels."
+  - image_path: assets/img/Water gun alarm clock.jpg
+    title: "Water Gun Alarm Clock"
+    excerpt: "A incredibly persistent alarm clock which wakes you up with water. "
 ---
 
 {% include feature_row %}
