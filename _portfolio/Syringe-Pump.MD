@@ -5,8 +5,8 @@ header:
   image: /assets/img/syringe pump banner picture.jpg
   teaser: /assets/img/Linear Actuator Assembly v8.png
 ---
-
-
+ 
+ 
 # Features
 
 * **Programmable flow rate.** Capable of flow rates as low as 1 uL / min to 10 mL / min and able to switch between two different syringe pump sizes.
