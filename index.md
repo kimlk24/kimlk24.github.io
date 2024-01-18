@@ -14,13 +14,22 @@ feature_row:
     alt: "Syringe Pump"
     title: "Programmable Syringe Pump Device"
     excerpt: "Capable of administering as low as 1 uL / min to 10 mL / min."
+      actions:
+    - label: "My Projects"
+      url: "/portfolio/"
   - image_path: assets/img/Lightbox Fixture Rendering 500x500.png
     alt: "Lightbox Fixture"
     title: "Lightbox Fixture"
     excerpt: "A reliable fixture which tests the characteristics of solar panels."
+      actions:
+    - label: "My Projects"
+      url: "/portfolio/"
   - image_path: assets/img/Water gun alarm clock 500x500.png
     title: "Water Gun Alarm Clock"
     excerpt: "A incredibly persistent alarm clock which wakes you up with water. "
+      actions:
+    - label: "My Projects"
+      url: "/portfolio/"
 ---
 
 {% include feature_row %}
