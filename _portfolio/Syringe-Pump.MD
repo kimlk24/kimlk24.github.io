@@ -52,9 +52,8 @@ header:
 | M3-0.5 x 0.8 | 2 |
 ## 3D printed parts
 
-| Part | Quantity |
-
-| ----------- | ----------- |
+| Part      | Quantity |
+| :---        | :---        | 
 | Carriage | 1 |
 | Motor Mounting Plate | 1 |
 | Linear Support with Syringe Pump Accomodations | 2 |
