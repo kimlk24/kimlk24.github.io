@@ -2,10 +2,11 @@
 title: "Programmable Syringe Pump"
 excerpt: "DIY programmable syringe pump capable of 1 uL / min flow rate up to 10 mL / min."
 header:
-  image: /assets/img/syringe pump banner picture.jpg
+  image: 
   teaser: /assets/img/Linear Actuator Assembly v8.png
 ---
- 
+ # CAD Model
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e817f50c3c936b1b2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
  
 # Features
 
@@ -50,6 +51,10 @@ header:
 | M3-0.5 x 6 mm | 4 |
 | M4-0.7 x 3 | 2 |
 | M3-0.5 x 0.8 | 2 |
+| Power supply (12v and 24v) | 1 
+| LED | 3 |
+| End switch | 1 |
+| Button | 3 |
 
 ## 3D printed parts
 
@@ -57,12 +62,14 @@ header:
 | :---        | :---        | 
 | Carriage | 1 |
 | Motor Mounting Plate | 1 |
-| Linear Support with Syringe Pump Accomodations | 2 |
+| Linear Support with Syringe Pump Accommodations | 2 |
 
 # Code
 The Arduino code can be found [here](https://github.com/kimlk24/kimlk24.github.io/blob/main/Final_Syringe_Pump_Code.ino).
 Or you can directly download it [here](/Final_Syringe_Pump_Code.ino).
-# CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e817f50c3c936b1b2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# How to operate
+
+To operate, first plug in to the USB B port and upload the Arduino code with the desired flow rate. Then plug in the device and click the on button so that a yellow light appears. To start the flow, click the start/pause button and the LED should become green. You can pause the rate of flow using the same start/pause button and when paused, the light will become yellow. Once the syringe pump is fully depressed, the light will turn red, and the motor will turn off. To reset, unplug the device and manually retract it by turning the lead screw. Alternatively, you can upload a new flow rate with a negative sign and use the start/pause button to retract the syringe pump.
 
 {% include gallery caption="" %}
