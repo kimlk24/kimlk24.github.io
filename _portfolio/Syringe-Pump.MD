@@ -42,8 +42,8 @@ header:
 | Paragraph   | Text        |
 
 # Code
-The Arduino code can be found [here](/Final_Syringe_Pump_Code.ino).
-
+The Arduino code can be found [here](https://github.com/kimlk24/kimlk24.github.io/blob/main/_portfolio/Syringe-Pump.MD).
+Or you can directly download it [here](/Final_Syringe_Pump_Code.ino).
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e817f50c3c936b1b2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
