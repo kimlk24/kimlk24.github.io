@@ -33,6 +33,7 @@ header:
 
 | Part      | Quantity |
 | :---        | :---        | 
+| 20x40x300 (mm) Aluminum Extrusion | 1 | 
 | Linear Bearing | 1 |
 | Flanged Ball Bearings | 2 |
 | NEMA 17 Stepper Motor | 1 |
