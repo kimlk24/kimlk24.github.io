@@ -31,9 +31,8 @@ header:
 
 ## Off the shelf parts
 
-| Part | Quanitity |
-
-| --- | --- |
+| Part      | Quantity |
+| :---        | :---        | 
 | 20x40x300 (mm) Aluminum Extrusion | 1 |
 | Linear Bearing | 1 |
 | Flanged Ball Bearings | 2 |
