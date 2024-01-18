@@ -33,7 +33,6 @@ header:
 | Part        | Quanitity |
 
 | ----------- | ----------- |
-
 | 20x40x300 (mm) Aluminum Extrusion      | 1     |
 | Linear Bearing   | 1       |
 | Flanged Ball Bearings   | 2       |
@@ -55,7 +54,6 @@ header:
 | Part      | Quantity |
 
 | ----------- | ----------- |
-
 | Carriage      | 1       |
 | Motor Mounting Plate   | 1        |
 | Linear Support with Syringe Pump Accomodations   | 2        |
