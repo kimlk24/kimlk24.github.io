@@ -41,4 +41,4 @@ SolidWorks Associate Certification for Mechanical Design
 
 ## Portriat 
 
-assets/img/PS-pic-JPEG.jpeg
+<img src="/assets/img/PS-pic-JPEG.jpeg" alt="Luke Kim" style="width:200px;"/>
