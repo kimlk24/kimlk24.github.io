@@ -5,7 +5,7 @@ header:
   image: 
   teaser: /assets/img/Linear Actuator Assembly v8.png
 gallery:
-  - image_path: assets/img/syringe pump banner picture.jpg
+  - image_path: assets/img/Linear Actuator Assembly v8.png
 
 ---
 
@@ -76,5 +76,7 @@ Or you can directly download it [here](/Final_Syringe_Pump_Code.ino).
 # How to operate
 
 To operate, first plug in to the USB B port and upload the Arduino code with the desired flow rate. Then plug in the device and click the on button so that a yellow light appears. To start the flow, click the start/pause button and the LED should become green. You can pause the rate of flow using the same start/pause button and when paused, the light will become yellow. Once the syringe pump is fully depressed, the light will turn red, and the motor will turn off. To reset, unplug the device and manually retract it by turning the lead screw. Alternatively, you can upload a new flow rate with a negative sign and use the start/pause button to retract the syringe pump.
+
+# Rendering
 
 {% include gallery caption="" %}
