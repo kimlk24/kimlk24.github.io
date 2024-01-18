@@ -30,19 +30,34 @@ header:
 # Materials
 
 ## Off the shelf parts
-| Syntax      | Description |
+| Part        | Quanitity |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
+| 20x40x300 (mm) Aluminum Extrusion      | 1     |
+| Linear Bearing   | 1       |
+| Flanged Ball Bearings   | 2       |
+| NEMA 17 Stepper Motor   |1       |
+| 5 mm to 8 mm Coupler   | 1    |
+| 2 mm Pitch Lead Screw   | 1      |
+| 8 mm Collar  | 2       |
+| 8 x 200 mm Linear Rod   | 1        |
+| M5 T-Nut   | 6        |
+| Lead Screw Flange   | 1        |
+| 8 mm Linear Rod Clamp   | 2        |
+| M4-0.7 x 3   | 2        |
+| M5-0.5 x 10 mm   | 4        |
+| M5-0.8 x 8 mm   | 6        |
+| M3-0.5 x 6 mm   | 4        |
+| M4-0.7 x 3   | 2        |
+| M3-0.5 x 0.8   | 2        |
 ## 3D printed parts
-| Syntax      | Description |
+| Part      | Quantity |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| Carriage      | 1       |
+| Motor Mounting Plate   | 1        |
+| Linear Support with Syringe Pump Accomodations   | 2        |
 
 # Code
-The Arduino code can be found [here](https://github.com/kimlk24/kimlk24.github.io/blob/main/_portfolio/Syringe-Pump.MD).
+The Arduino code can be found [here](https://github.com/kimlk24/kimlk24.github.io/blob/main/Final_Syringe_Pump_Code.ino).
 Or you can directly download it [here](/Final_Syringe_Pump_Code.ino).
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e817f50c3c936b1b2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
