@@ -29,6 +29,13 @@ header:
 
 # Materials
 
+## Off the shelf parts
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+## 3D printed parts
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
