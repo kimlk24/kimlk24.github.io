@@ -30,33 +30,35 @@ header:
 # Materials
 
 ## Off the shelf parts
-| Part        | Quanitity |
 
-| ----------- | ----------- |
-| 20x40x300 (mm) Aluminum Extrusion      | 1     |
-| Linear Bearing   | 1       |
-| Flanged Ball Bearings   | 2       |
-| NEMA 17 Stepper Motor   |1       |
-| 5 mm to 8 mm Coupler   | 1    |
-| 2 mm Pitch Lead Screw   | 1      |
-| 8 mm Collar  | 2       |
-| 8 x 200 mm Linear Rod   | 1        |
-| M5 T-Nut   | 6        |
-| Lead Screw Flange   | 1        |
-| 8 mm Linear Rod Clamp   | 2        |
-| M4-0.7 x 3   | 2        |
-| M5-0.5 x 10 mm   | 4        |
-| M5-0.8 x 8 mm   | 6        |
-| M3-0.5 x 6 mm   | 4        |
-| M4-0.7 x 3   | 2        |
-| M3-0.5 x 0.8   | 2        |
+| Part | Quanitity |
+
+| --- | --- |
+| 20x40x300 (mm) Aluminum Extrusion | 1 |
+| Linear Bearing | 1 |
+| Flanged Ball Bearings | 2 |
+| NEMA 17 Stepper Motor | 1 |
+| 5 mm to 8 mm Coupler | 1 |
+| 2 mm Pitch Lead Screw | 1 |
+| 8 mm Collar | 2 |
+| 8 x 200 mm Linear Rod | 1 |
+| M5 T-Nut | 6 |
+| Lead Screw Flange | 1 |
+| 8 mm Linear Rod Clamp | 2 |
+| M4-0.7 x 3 | 2 |
+| M5-0.5 x 10 mm | 4 |
+| M5-0.8 x 8 mm | 6 |
+| M3-0.5 x 6 mm | 4 |
+| M4-0.7 x 3 | 2 |
+| M3-0.5 x 0.8 | 2 |
 ## 3D printed parts
-| Part      | Quantity |
+
+| Part | Quantity |
 
 | ----------- | ----------- |
-| Carriage      | 1       |
-| Motor Mounting Plate   | 1        |
-| Linear Support with Syringe Pump Accomodations   | 2        |
+| Carriage | 1 |
+| Motor Mounting Plate | 1 |
+| Linear Support with Syringe Pump Accomodations | 2 |
 
 # Code
 The Arduino code can be found [here](https://github.com/kimlk24/kimlk24.github.io/blob/main/Final_Syringe_Pump_Code.ino).
