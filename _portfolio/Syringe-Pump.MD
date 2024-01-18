@@ -31,7 +31,9 @@ header:
 
 ## Off the shelf parts
 | Part        | Quanitity |
+
 | ----------- | ----------- |
+
 | 20x40x300 (mm) Aluminum Extrusion      | 1     |
 | Linear Bearing   | 1       |
 | Flanged Ball Bearings   | 2       |
@@ -51,7 +53,9 @@ header:
 | M3-0.5 x 0.8   | 2        |
 ## 3D printed parts
 | Part      | Quantity |
+
 | ----------- | ----------- |
+
 | Carriage      | 1       |
 | Motor Mounting Plate   | 1        |
 | Linear Support with Syringe Pump Accomodations   | 2        |
