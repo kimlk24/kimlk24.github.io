@@ -3,7 +3,7 @@ title: "Lightbox Testing Fixture"
 excerpt: "A modification to an existing fixture to increase the ease of use and consinsency."
 header:
   image: /assets/img/Lightbox page banner picture.jpg
-  teaser: /assets/img/Lightbox page banner picture.jpg
+  teaser: assets/img/Lightbox teaser picture.jpg
 gallery:
   - image_path: assets/img/Lightbox Fixture Rendering 500x500.png
   - image_path: assets/img/Installed lightbox modification.jpg
