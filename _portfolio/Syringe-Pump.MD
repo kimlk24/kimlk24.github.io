@@ -68,6 +68,7 @@ gallery:
 | Carriage | 1 |
 | Motor Mounting Plate | 1 |
 | Linear Support with Syringe Pump Accommodations | 2 |
+| Wiring Enclosure and Lid | 1 |
 
 # Code
 The Arduino code can be found [here](https://github.com/kimlk24/kimlk24.github.io/blob/main/Final_Syringe_Pump_Code.ino).
