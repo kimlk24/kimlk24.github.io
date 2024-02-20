@@ -15,7 +15,7 @@ gallery:
  
 # Features
 
-* **Dual mixing channels.** Total fluid capacity 2.25 mL which allows for small amounts of fluids required to test.** 
+* **Dual mixing channels.** Total fluid capacity 2.25 mL which allows for small amounts of fluids required to test.
 
 # What?
 
@@ -28,7 +28,7 @@ gallery:
 * **Researched** and implemented mixing techniques to design a fluid mixing device
 * Utilized a **Resin 3D printer** to print our mold to create the small details of the microfluidic device.
 
-#Mixing Techniques
+# Mixing Techniques
 
 * All pathways are laid out in a snake like pattern to maximize the length of the pathway and therefore distance for the liquid to mix with each other. On one half of the microfluidic device, there are two different sections within the snake pattern. One half has horizontal thinner channels which helps create a constantly changing mixing pattern based off of time. The other half of the snake pattern has small ramps known as an inclined mixer. The inclined mixer promotes chaotic mixing behavior within the fluid to effectively mix the two fluids together.
 
