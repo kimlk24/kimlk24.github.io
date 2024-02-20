@@ -19,8 +19,8 @@ gallery:
 
 # What?
 
-* Syringe pumps are precision instruments used in the medical industry but are often nor programmable and expensive
-* The goal of this project is to create a programmable, affordable, and accurate syringe pump
+* At small Reynold's number, turbulent mixing does not occur. Due to the small scale of this fluid mixing, the Reynold's number is very small and therefore we cannot rely on turbulent mixing to mix the fluids. Instead we must rely on diffusive species mixing.
+* Often times testing and research can be expensive. Having testing setups which require very low quantities of fluids can help save money, resources, and time.
 
 # How?
 
@@ -30,11 +30,20 @@ gallery:
 
 # Mixing Techniques
 
-* All pathways are laid out in a snake like pattern to maximize the length of the pathway and therefore distance for the liquid to mix with each other. On one half of the microfluidic device, there are two different sections within the snake pattern. One half has horizontal thinner channels which helps create a constantly changing mixing pattern based off of time. The other half of the snake pattern has small ramps known as an inclined mixer. The inclined mixer promotes chaotic mixing behavior within the fluid to effectively mix the two fluids together.
+All pathways are laid out in a snake like pattern to maximize the length of the pathway and therefore distance for the liquid to mix with each other. On one half of the microfluidic device, there are two different sections within the snake pattern. The snake pattern is 0.5 mm wide and 0.4 mm tall. This is to keep well within the 1:4 width to height ratio for resin printing, maintaining a large enough pathway for fluids to flow, and large enough pathway to create other geometries while staying within the resolution of the resin printer. One half has horizontal thinner channels which helps create a constantly changing mixing pattern based off of time. The other half of the snake pattern has small ramps known as an inclined mixer. The inclined mixer promotes chaotic mixing behavior within the fluid to effectively mix the two fluids together.
 
 # Results
 
 * Successfully designed and created a microfluidic devices based off of researched mixing techniques
+
+# How to create a microfluidic device
+
+To create a microfluidic device, use the following general steps as a guide
+* First you must design the mold. Do this using a CAD software and designing the negative of your desired pathway.
+* Then print your mold on a high resolution resin printer and cure the model
+* Coat the mold with parylene to prepare for molding
+* Cast PDMS to create your device
+* Finnaly plasma bond a glass slide
 
 
 # Rendering
