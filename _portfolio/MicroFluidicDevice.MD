@@ -28,7 +28,7 @@ gallery:
 * However, at a small Reynold's number, turbulent mixing does not occur. Due to the small scale of this fluid mixing, the Reynold's number is very small and therefore we cannot rely on turbulent mixing to mix the fluids at a micro scale. Instead, we must rely on diffusive species mixing to achieve the desired fluidic mixing.
 * This microfluidic device is designed to mix fluids at a micro scale while only requiring as low as 2.25 mL of fluid.
 
-{{ site.url }}{{ site.baseurl }}/assets/images/assets/img/uFluidicMixing.jpg
+!{{ site.url }}{{ site.baseurl }}/assets/images/assets/img/uFluidicMixing.jpg
 
 # How?
 
