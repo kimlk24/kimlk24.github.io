@@ -5,8 +5,8 @@ header:
   Image: 
   teaser: /assets/img/uFluidic Device Render.png
 gallery:
-  - image_path: assets/img/uFluidic Device Render.png
-
+  - image_path: assets/img/uFluidicMixing.jpg
+  - image_path: assets/img/uFluidicMold.jpg
 ---
 
 # CAD Model
@@ -46,7 +46,7 @@ To create a microfluidic device, use the following general steps as a guide
 * Finnaly plasma bond a glass slide
 
 
-# Rendering
+# 3D Printed uFluidic Mold
 
 {% include gallery caption="" %}
 
