@@ -19,22 +19,28 @@ gallery:
 
 # What?
 
-* At small Reynold's number, turbulent mixing does not occur. Due to the small scale of this fluid mixing, the Reynold's number is very small and therefore we cannot rely on turbulent mixing to mix the fluids. Instead we must rely on diffusive species mixing.
-* Often times testing and research can be expensive. Having testing setups which require very low quantities of fluids can help save money, resources, and time.
+* When testing blood or other fluids, expensive antibodies are often required. These antibodies can be as much as 4500x more expensive than gold. Additionally, when conducting blood testing, only need one drop of blood versus an entire vial can make blood tests more accessible and easy to collect.
+* As a result, a microfluidic device which can mix multiple fluids to conduct testing is a useful technology to reduce costs and increase accessibility to fluidic testing.
+* However, at a small Reynold's number, turbulent mixing does not occur. Due to the small scale of this fluid mixing, the Reynold's number is very small and therefore we cannot rely on turbulent mixing to mix the fluids at a micro scale. Instead, we must rely on diffusive species mixing to achieve the desired fluidic mixing.
+* This microfluidic device is designed to mix fluids at a micro scale while only requiring as low as 2.25 mL of fluid.
+
+assets/img/uFluidicMixing.jpg
 
 # How?
 
 * Used **CAD software** such as **Fusion 360** to design a custom mold to make a micro fluidic device.
 * **Researched** and implemented mixing techniques to design a fluid mixing device
-* Utilized a **Resin 3D printer** to print our mold to create the small details of the microfluidic device.
+* Utilized a **Resin 3D printer** to print the mold to create the small details of the microfluidic device.
 
 # Mixing Techniques
 
-All pathways are laid out in a snake like pattern to maximize the length of the pathway and therefore distance for the liquid to mix with each other. On one half of the microfluidic device, there are two different sections within the snake pattern. The snake pattern is 0.5 mm wide and 0.4 mm tall. This is to keep well within the 1:4 width to height ratio for resin printing, maintaining a large enough pathway for fluids to flow, and large enough pathway to create other geometries while staying within the resolution of the resin printer. One half has horizontal thinner channels which helps create a constantly changing mixing pattern based off of time. The other half of the snake pattern has small ramps known as an inclined mixer. The inclined mixer promotes chaotic mixing behavior within the fluid to effectively mix the two fluids together.
+
+The pathways in the microfluidic device are arranged in a snake like pattern, to make them longer. This makes the liquid travel a greater distance, increasing the surface area for diffusion, causing it to mix better. On the right side of the device, there are two sections arranged in this snake pattern. Each snake pathway is 0.5 mm wide and 0.4 mm tall. This size ensures that the width-to-height ratio stays within the recommended range for successful micro resin printing. It also provides enough space for fluids to flow and for creating various pathways while still being suitable for the resolution of the resin printer. One section has narrower horizontal channels, which layer the fluidic channels and therefore increase the surface area for better mixing. The other section has small ramps called inclined mixers. These mixers help create chaotic movement in the fluid, effectively blending the two liquids together.
 
 # Results
 
 * Successfully designed and created a microfluidic devices based off of researched mixing techniques
+* The microfluidic device successfully mixed 2 liquids within about 1/5th of the total length of the mixer.
 
 # How to create a microfluidic device
 
@@ -43,10 +49,9 @@ To create a microfluidic device, use the following general steps as a guide
 * Then print your mold on a high resolution resin printer and cure the model
 * Coat the mold with parylene to prepare for molding
 * Cast PDMS to create your device
-* Finnaly plasma bond a glass slide
+* Finally plasma bond a glass slide and insert liquid tube adapters
 
 
 # 3D Printed uFluidic Mold
 
 {% include gallery caption="" %}
-
