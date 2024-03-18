@@ -28,8 +28,6 @@ gallery:
 * However, at a small Reynold's number, turbulent mixing does not occur. Due to the small scale of this fluid mixing, the Reynold's number is very small and therefore we cannot rely on turbulent mixing to mix the fluids at a micro scale. Instead, we must rely on diffusive species mixing to achieve the desired fluidic mixing.
 * This microfluidic device is designed to mix fluids at a micro scale while only requiring as low as 2.25 mL of fluid.
 
-!{{ site.url }}{{ site.baseurl }}/assets/images/assets/img/uFluidicMixing.jpg
-
 # How?
 
 * Used **CAD software** such as **Fusion 360** to design a custom mold to make a micro fluidic device.
@@ -39,7 +37,7 @@ gallery:
 # Mixing Techniques
 
 
-The pathways in the microfluidic device are arranged in a snake like pattern, to make them longer. This makes the liquid travel a greater distance, increasing the surface area for diffusion, causing it to mix better. On the right side of the device, there are two sections arranged in this snake pattern. Each snake pathway is 0.5 mm wide and 0.4 mm tall. This size ensures that the width-to-height ratio stays within the recommended range for successful micro resin printing. It also provides enough space for fluids to flow and for creating various pathways while still being suitable for the resolution of the resin printer. One section has narrower horizontal channels, which layer the fluidic channels and therefore increase the surface area for better mixing. The other section has small ramps called inclined mixers. These mixers help create chaotic movement in the fluid, effectively blending the two liquids together.
+As shown in the gallery at the bottom of this page, the pathways in the microfluidic device are arranged in a snake like pattern, to make them longer. This makes the liquid travel a greater distance, increasing the surface area for diffusion, causing it to mix better. On the right side of the device, there are two sections arranged in this snake pattern. Each snake pathway is 0.5 mm wide and 0.4 mm tall. This size ensures that the width-to-height ratio stays within the recommended range for successful micro resin printing. It also provides enough space for fluids to flow and for creating various pathways while still being suitable for the resolution of the resin printer. One section has narrower horizontal channels, which layer the fluidic channels and therefore increase the surface area for better mixing. The other section has small ramps called inclined mixers. These mixers help create chaotic movement in the fluid, effectively blending the two liquids together.
 
 # Results
 
