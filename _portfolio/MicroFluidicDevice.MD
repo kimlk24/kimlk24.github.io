@@ -5,8 +5,12 @@ header:
   Image: 
   teaser: /assets/img/uFluidic Device Render.png
 gallery:
-  - image_path: assets/img/uFluidicMixing.jpg
-  - image_path: assets/img/uFluidicMold.jpg
+  - url: /assets/img/uFluidicMixing.jpg
+    image_path: assets/img/uFluidicMixing.jpg
+    alt: "uFluidic Mold and Device"
+  - url: /assets/img/RotateduFluidicMolds.jpg
+    image_path: assets/img/RotateduFluidicMolds.jpg
+    alt: "uFluidic Mold and Device"
 ---
 
 # CAD Model
