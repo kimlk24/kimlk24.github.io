@@ -53,6 +53,9 @@ To create a microfluidic device, use the following general steps as a guide
 * Cast PDMS to create your device
 * Finally plasma bond a glass slide and insert liquid tube adapters
 
+# Video of the device in use
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bpBCI8SE83E?si=v4qpA5a6pJV7EiFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # 3D Printed uFluidic Mold
 
