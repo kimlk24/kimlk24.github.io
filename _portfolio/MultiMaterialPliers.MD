@@ -17,10 +17,8 @@ gallery:
 
 ---
 
-# CAD Model
+![Rendering of the multi material pliers](/assets/img/Pliers render.jpg)
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e97c9bc81b8c733fb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
- 
 # Features
 
 * **Print-in-place multi material design** allowing for simple all in one fabrication while taking advantage of 3D printing techniques to add features such as fully enclosed skeleton and TPU handle grips. 
@@ -49,9 +47,9 @@ Plier Jaw Width: 4 mm
 Plier Jaw Length: 24 mm
 Handle Width: 62 mm
 
-# Rendering
+# CAD Model
 
-![Rendering of the multi material pliers](/assets/img/Pliers render.jpg)
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e97c9bc81b8c733fb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # CAD and section views of pliers
 
