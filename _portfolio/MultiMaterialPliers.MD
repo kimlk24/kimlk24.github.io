@@ -18,8 +18,6 @@ gallery:
 * **Print-in-place multi material design** allowing for simple all in one fabrication while taking advantage of 3D printing techniques to add features such as fully enclosed skeleton and TPU handle grips. 
 * Capable of picking and placing through hole resistors and being used as a general set of low strength plies. 
 
-/assets/img/Linear Actuator Assembly v8.png
-
 # What?
 
 * Most projects today are made from multiple materials. For example, a classic pair of needle nose pliers consist of a metal mechanism with normally a rubberized grip. 
@@ -37,5 +35,7 @@ gallery:
 * Successfully designed and printed a set of print-in-place pliers which could be used right after being made and can effectively pick and place through hole resistors.
 
 # Rendering
+![Rendering of the multi material pliers](/assets/img/Pliers render.jpg)
 
+# CAD and section views of pliers
 {% include gallery caption="" %}
