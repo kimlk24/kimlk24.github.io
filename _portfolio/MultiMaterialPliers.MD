@@ -3,9 +3,17 @@ title: "Multi Material Pliers"
 excerpt: "Multi material print-in-place pliers made of PLA and TPU to pick and place through hole resistors."
 header:
   image:
-  teaser: /assets/img/Linear Actuator Assembly v8.png
+  teaser: /assets/img/Pliers render.jpg
 gallery:
-  - image_path: assets/img/Linear Actuator Assembly v8.png
+  - url: /assets/img/Pliers final.jpg
+    image_path: assets/img/Pliers final.jpg
+    alt: "Final CAD of pliers"
+  - url: /assets/img/Pliers final top section view2.jpg
+    image_path: assets/img/Pliers final top section view2.jpg
+    alt: "3/4 section view of pliers"
+  - url: /assets/img/Pliers final bottom section view.jpg
+    image_path: assets/img/Pliers final bottom section view.jpg
+    alt: "1/2 section view of pliers"
 
 ---
 
@@ -25,6 +33,7 @@ gallery:
 * If you have seen recent movies like Spider-man or Iron man, there are fabrication machines depicting the superhero designing a new suit, and having the fabricator make it for them in just a few moments all ready to go. Combining the techniques of print-in-place and multi material printing is one of the closest ways we can achieve the superhero fabricator magic with the use of a 3D printer.
 * To have successful multi material prints, the materials which you use should have similar cooling/shrinkage properties, similar surface energy, and similar intermolecular forces to ensure sufficient bonding.
 * The goal of this project is to create a print-in-place pliers using PLA and TPU which returns to the open position when not in use.
+
 # How?
 
 * Used **CAD software** such as **Fusion 360** to design a print-in-place pliers using multi material 3D printing.
@@ -34,8 +43,16 @@ gallery:
 
 * Successfully designed and printed a set of print-in-place pliers which could be used right after being made and can effectively pick and place through hole resistors.
 
+# Design Specifications
+
+Plier Jaw Width: 4 mm
+Plier Jaw Length: 24 mm
+Handle Width: 62 mm
+
 # Rendering
+
 ![Rendering of the multi material pliers](/assets/img/Pliers render.jpg)
 
 # CAD and section views of pliers
+
 {% include gallery caption="" %}
