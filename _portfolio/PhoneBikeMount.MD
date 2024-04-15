@@ -1,60 +1,65 @@
 ---
 title: "Bike Phone Holder"
-excerpt: "3D printed phone holder capable of horizontal and vertical placement and adjustible mounting for generic bike handles."
+excerpt: "3D printed phone holder capable of horizontal and vertical placement and adjustable mounting for generic bike handles."
 header:
   image:
-  teaser: /assets/img/Pliers render.jpg
+  teaser: /assets/img/Bike to Phone Adapter v7.png
 gallery:
   - url: /assets/img/Pliers final.jpg
     image_path: assets/img/Pliers final.jpg
     alt: "Final CAD of pliers"
-  - url: /assets/img/Pliers final top section view2.jpg
-    image_path: assets/img/Pliers final top section view2.jpg
-    alt: "3/4 section view of pliers"
-  - url: /assets/img/Pliers final bottom section view.jpg
-    image_path: assets/img/Pliers final bottom section view.jpg
-    alt: "1/2 section view of pliers"
+  - url: /assets/img/Horizontal Bike mount.jpg
+    image_path: assets/img/Horizontal Bike mount.jpg
+    alt: "Horizontal orientation"
+  - url: /assets/img/Veritcal Phone Bike Mount.jpg
+    image_path: assets/img/Veritcal Phone Bike Mount.jpg
+    alt: "Vertical orientation"
 
 ---
 
-![Rendering of the multi material pliers](/assets/img/Pliers render.jpg)
+![Rendering of phone bike mount](/assets/img/Bike to Phone Adapter v7.png)
 
 # Features
 
-* **Print-in-place multi material design** allowing for simple all in one fabrication while taking advantage of 3D printing techniques to add features such as fully enclosed skeleton and TPU handle grips. 
-* Capable of picking and placing through hole resistors and being used as a general set of low strength plies. 
+* **Top-down modeled** phone bike mount capable of supporting the phone in both vertical and horizontal viewing orientations. 
+* Able to mount to a variety of bike handle diameters, averaging around 25mm.
 
 # What?
 
-* Most projects today are made from multiple materials. For example, a classic pair of needle nose pliers consist of a metal mechanism with normally a rubberized grip. 
-* Print-in-place is a 3D printing technique where the 3D printed part does not require any extra parts and/or assembly after being printed and can immediately be used. For example, this image displays a print in place chainmail mesh which once printed required so manual linking of each chain, but rather is configured in the printing design to be fully ready to use once printed.
-* If you have seen recent movies like Spider-man or Iron man, there are fabrication machines depicting the superhero designing a new suit, and having the fabricator make it for them in just a few moments all ready to go. Combining the techniques of print-in-place and multi material printing is one of the closest ways we can achieve the superhero fabricator magic with the use of a 3D printer.
-* To have successful multi material prints, the materials which you use should have similar cooling/shrinkage properties, similar surface energy, and similar intermolecular forces to ensure sufficient bonding.
-* The goal of this project is to create a print-in-place pliers using PLA and TPU which returns to the open position when not in use.
+* Top-down modeling is a design modeling approach where each part can be directly created and edited within the same assembly instead of referencing entirely different parts and then updating the assembly
+* This allows for quicker editing, easy parameterization, and easy ways to reference other designs within the assembly 
+* For this phone mount, we used top-down modeling to quickly design the phone holder around the iPhone 12 mini, and design the entire phone holder assembly in its exact place with respect to the phone and handles. As a result, the model only needed to be printed once since it was modeled in the assembly and everything fit as it should.
+
+**Design**
+
+* For this specific design, I decided to make a 4 stemmed phone holder to secure to each corner of the device. This would allow for enough flexibility to be able to install easily, while maintaining sufficient rigidity and constraints to keep the phone in place. One end of the phone holder has a rectangular cut out for the phone’s raised cameras to allow for a flush fit. To allow for the phone to rotate from horizontal to vertical, I decided to design a simple friction joint where a bolt connected the handle mount to the phone holder via a bolt, and the tightness of the bolt would determine the friction and difficulty to turn the phone from horizontal to vertical and vice versa. Finally, the bike handle mount was designed using a simple clamping mechanism that would be driven with 2 bolts. This would allow the mount to fit on a variety of bike handle thicknesses with an easy way to tighten the mount to stay secure.
+
+**Assembly Instructions**
+
+* To assemble the mount, first take the handle clamp and place it on the desired handle location, ensuring the end of the clamp with the bolt hole is facing towards the rider. 
+* Then secure the clamp in place by running a bolt through each hole and tightening it with a nut until it is securely in place
+* Align the phone holder to the clamp and use a bolt to join the mount and clamp together until there it is hard to rotate the phone holder
+* Finally remove any phone cases on your iPhone 12 mini and snap the phone into place making sure the phone cutout aligns with your cameras.
+
+**Material Choice**
+
+* The material I selected for this project was PETG as it is durable and heat resistant. That way even on hot days, the phone mount will not deform, and it will resist vibrations while riding.
 
 # How?
 
-* Used **CAD software** such as **Fusion 360** to design a print-in-place pliers using multi material 3D printing.
-* Utilized multi material concepts like fully enclosing materials which through normal manufacturing methods are almost impossible to take advantage of layer by layer manufacturing. 
+* Used **CAD software** such as **Fusion 360** to design the bike mount using a top-down modeling method.
+* Utilized a 3D printer to fabricate the device.
 
 # Results
 
-* Successfully designed and printed a set of print-in-place pliers which could be used right after being made and can effectively pick and place through hole resistors.
+* Successfully designed and printed a bike phone holder in 1 iteration though using top-down modeling techniques
 
-# Design Specifications
-
-Plier Jaw Width: 4 mm
-Plier Jaw Length: 24 mm
-Handle Width: 62 mm
-
-# Demonstration
-
-![Rendering of the multi material pliers](/assets/img/PliersGIF.GIF)
 
 # CAD Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e97c9bc81b8c733fb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e452b6c055c558667?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-# CAD and section views of pliers
+# Images of the mount
 
 {% include gallery caption="" %}
+
