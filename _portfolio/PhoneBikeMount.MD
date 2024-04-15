@@ -5,9 +5,7 @@ header:
   image:
   teaser: /assets/img/Bike to Phone Adapter v7.png
 gallery:
-  - url: /assets/img/Pliers final.jpg
-    image_path: assets/img/Pliers final.jpg
-    alt: "Final CAD of pliers"
+
   - url: /assets/img/Horizontal Bike mount.jpg
     image_path: assets/img/Horizontal Bike mount.jpg
     alt: "Horizontal orientation"
@@ -26,8 +24,8 @@ gallery:
 
 # What?
 
-* Top-down modeling is a design modeling approach where each part can be directly created and edited within the same assembly instead of referencing entirely different parts and then updating the assembly
-* This allows for quicker editing, easy parameterization, and easy ways to reference other designs within the assembly 
+* Top-down modeling is a design modeling approach where each part can be directly created and edited within the same assembly instead of referencing entirely different parts and then updating the assembly.
+* This allows for quicker editing, easy parameterization, and easy ways to reference other designs within the assembly.
 * For this phone mount, we used top-down modeling to quickly design the phone holder around the iPhone 12 mini, and design the entire phone holder assembly in its exact place with respect to the phone and handles. As a result, the model only needed to be printed once since it was modeled in the assembly and everything fit as it should.
 
 **Design**
@@ -37,8 +35,8 @@ gallery:
 **Assembly Instructions**
 
 * To assemble the mount, first take the handle clamp and place it on the desired handle location, ensuring the end of the clamp with the bolt hole is facing towards the rider. 
-* Then secure the clamp in place by running a bolt through each hole and tightening it with a nut until it is securely in place
-* Align the phone holder to the clamp and use a bolt to join the mount and clamp together until there it is hard to rotate the phone holder
+* Then secure the clamp in place by running a bolt through each hole and tightening it with a nut until it is securely in place.
+* Align the phone holder to the clamp and use a bolt to join the mount and clamp together until there it is hard to rotate the phone holder.
 * Finally remove any phone cases on your iPhone 12 mini and snap the phone into place making sure the phone cutout aligns with your cameras.
 
 **Material Choice**
@@ -52,7 +50,7 @@ gallery:
 
 # Results
 
-* Successfully designed and printed a bike phone holder in 1 iteration though using top-down modeling techniques
+* Successfully designed and printed a bike phone holder in 1 iteration though using top-down modeling techniques.
 
 
 # CAD Model
