@@ -1,6 +1,6 @@
 ---
-title: "Multi Material Pliers"
-excerpt: "Multi material print-in-place pliers made of PLA and TPU to pick and place through hole resistors."
+title: "Bike Phone Holder"
+excerpt: "3D printed phone holder capable of horizontal and vertical placement and adjustible mounting for generic bike handles."
 header:
   image:
   teaser: /assets/img/Pliers render.jpg
