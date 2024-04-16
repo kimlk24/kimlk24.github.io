@@ -1,34 +1,37 @@
 ---
 title: "Hydrogen Generator to Decrease Car Emissions"
-excerpt: "Created an electric powered hydrogen generator to inject hydrogen gas to the air intake of a car to increase fuel ecomony and decrease car emissions."
+excerpt: "Created an electric powered hydrogen generator to inject hydrogen gas to the air intake of a car to increase fuel economy and decrease car emissions."
 header:
-  image: /assets/img/Button Fastner Final.png
-  teaser: assets/img/Button Fastner Final.png
+  image:
+  teaser: /assets/img/hydrogen generator.png
 gallery:
-  - image_path: assets/img/Button fastner prototype render.png
-  - image_path: assets/img/Button Fastner Prototype.png
-  - image_path: assets/img/Button Fastner Final.png
+
+  - url: /assets/img/hydrogen generator.png
+    image_path: assets/img/hydrogen generator.png
+    alt: "Hydrogen Generator Rendering"
+  - url: /assets/img/Hydrogen generator real life.jpg
+    image_path: assets/img/Hydrogen generator real life.jpg
+    alt: "Hydrogen Generator in the System"
 
 ---
 
-# Features
-
-* Fully customized solar panel testing fixture modification to decrease inconsistencies during testing and increaeing the ease of use using a slider mechanism and magnetic door.
+![Rendering of the Hydrogen Generator](/assets/img/hydrogen generator.png)
 
 # What?
 
-* Design and fabricate a tool which allows users with limited fine motor skills to fasten/unfasten buttons on common clothing
-* Work directly with end users to create an effective and stylish product
+* Through using the method of electrolysis, convert water into usable hydrogen gas to reduce carbon emissions from road vehicles and improve the fuel efficiency.
 
 # How?
 
-* Used **SolidWorks** to model and visualize the solution
-* Brainstormed a variety of ideas within a group to determine initial mechanism.
-* **Rapidly prototyped** using cardboard and glue, then laser cutting, and finally 3D printing
+* Created a water based hydrogen generator utilizing electrolysis principals and designed using **Autodesk Fusion 360**.
+* Rapidly prototyped and tested hydrogen generator to act as a proof of concept
 
 # Results
 
-* Enabled the users to individually fasten buttons using our tool
-* Satisfied aesthetic goals of the end product
+* Successfully designed and fabricated a hydrogen generator
+* Utilized Fusion 360 to make photorealistic model the generator and presented final results orally and in a written report
+
 
 {% include gallery caption="" %}
+
+
