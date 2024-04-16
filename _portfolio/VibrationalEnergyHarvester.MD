@@ -3,7 +3,7 @@ title: "Vibrational Energy Harvester"
 excerpt: "A proof of concept device which converts vibrational energy into usable electrical energy in the form of an LED."
 header:
   image:
-  teaser: /assets/img/Vibration characterization.png
+  teaser: /assets/img/vibration housing CAD.png
 gallery:
 
   - url: /assets/img/Vibration characterization.png
