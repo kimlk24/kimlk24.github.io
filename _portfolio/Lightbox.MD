@@ -11,24 +11,22 @@ gallery:
 
 # Features
 
-* **Programmable flow rate.** Capable of flow rates as low as 1 uL / min to 10 mL / min and able to switch between two different syringe pump sizes.
-* **Affordable bill of materials.** Programmable syringe pumps start at around $375, and this syringe pump has a cost under $150. That makes this syringe pump extremely affordable especially due to the use of 3D printed parts.
+* Fully customized solar panel testing fixture modification to decrease inconsistencies during testing and increaeing the ease of use using a slider mechanism and magnetic door.
 
 # What?
 
-* Syringe pumps are precision instruments used in the medical industry but are often nor programmable and expensive
-* The goal of this project is to create a programmable, affordable, and accurate syringe pump
+* Current solar panel testing fixture for IoT product is slow to operate and cumbersome to use
+* The current lightbox cannot be drilled and the modification must be made within a week
+
 
 # How?
 
-* Used **CAD software** such as **Fusion 360** to design custom parts to fit stepper motors, bearings, mounting hardware, and various sized syringe pumps
+* Utilized **Onshape** to design a lightbox modification with sliding tray using pre-existing holes for mounting
 * **Rapidly prototyped** custom parts by utilizing **3D printers**
-* **Programmed** and **wired** a stepper motor, LEDs, a switch, power supply, and buttons using an **Arduino** using custom code
 
 # Results
 
-* Successfully designed, built, and tested a programmable syringe pump device capable of flow rates as low as 1 uL / min with high accuracy.
-
+* Created a functional lightbox modification which increased the ease of use and efficiency to test multiple devices by providing a sliding tray for better access to the device before the assembly line resumed
 
 
 {% include gallery caption="" %}
