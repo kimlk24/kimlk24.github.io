@@ -3,7 +3,7 @@ title: "Amazon Robotics Work in Progress Buffer"
 excerpt: "A proof of concept device which aims to temporarily organize, store, and reintroduce packages to allow a robotic arm to continue to autonomously sort packages."
 header:
   image:
-  teaser: /assets/img/AR Main assembly WIP buffer with camera stand.png
+  teaser: /assets/img/AR teaser.png
 gallery:
 
   - url: /assets/img/AR initial prototype.png
