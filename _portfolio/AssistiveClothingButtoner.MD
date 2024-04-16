@@ -2,14 +2,14 @@
 title: "Assistive Clothing Buttoner"
 excerpt: "Assistive cothing tool to help users with limited fine motor abilities to fasten and unbutton buttons."
 header:
-  image: /assets/img/Button Fastner Final.png
-  teaser: assets/img/Button Fastner Final.png
+  teaser: assets/img/button teaser.png
 gallery:
   - image_path: assets/img/Button fastner prototype render.png
   - image_path: assets/img/Button Fastner Prototype.png
   - image_path: assets/img/Button Fastner Final.png
 
 ---
+![Device](/assets/img/button teaser.png)
 
 # Features
 
