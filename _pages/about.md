@@ -4,7 +4,7 @@ title: "About Luke Kim"
 
 ---
 ## About
-I am a senior at Vanderbilt University studying mechanical engineering with a minor in digital fabrication. Currenly I am seeking a job as a mechanical design engineer and product design engineer. My most prominent fields of expertise are additive manufacturing (i.e., 3D printing), mechatronics, and CAD software. But my diverse experience in electrical engineering, business, and finance helps me to approach mechanical engineering problems more holistically.
+I have a product engineering firm specializing in electromechanical devices and software based products. I recently graduated from Vanderbilt University studying mechanical engineering with a minor in digital fabrication. My most prominent fields of expertise are additive manufacturing (i.e., 3D printing), mechatronics, and CAD software. But my diverse experience in electrical engineering, business, and finance helps me to approach mechanical engineering problems more holistically.
 
 ## Education
 
