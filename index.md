@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Luke Kim is a senior at Vanderbilt Univeristy studying mechanical engineering. His area of expertise is hands-on rapid prototyping, inclusing CAD, 3D printing, and mechatronics."
+excerpt: "Luke Kim is a product engineer specializing in electromechanical solutions. He owns a product engineering firm that focuses on solving problems and creating products at the intersection of mechanical, electrical, and software disciplines. His areas of expertise include hands-on rapid prototyping, CAD, 3D printing, and mechatronics."
 feature_row:
   - image_path: assets/img/Linear Actuator Assembly v8 500x500.png
     alt: "Syringe Pump"
