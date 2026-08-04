@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="800" height="600" fill="#ffffff"/>
+
+  <!-- subtle grid -->
+  <g stroke="#eeeeee" stroke-width="1">
+    <line x1="80" y1="120" x2="720" y2="120"/>
+    <line x1="80" y1="220" x2="720" y2="220"/>
+    <line x1="80" y1="320" x2="720" y2="320"/>
+    <line x1="80" y1="420" x2="720" y2="420"/>
+    <line x1="80" y1="520" x2="720" y2="520"/>
+  </g>
+
+  <!-- baseline at index 100 -->
+  <line x1="80" y1="360" x2="720" y2="360" stroke="#c9c9c9" stroke-width="1.5" stroke-dasharray="6,4"/>
+
+  <!-- Indexed values Q1 25 to Q2 26.
+       PCB: 100, 129, 112, 58, 30, 13
+       Switch: 100, 248, 120, 137, 97, 58
+       y = 520 - index * 1.6
+       x: 80, 208, 336, 464, 592, 720 -->
+
+  <!-- Switch (blue) -->
+  <polyline points="80,360 208,123.2 336,328 464,300.8 592,364.8 720,427.2"
+            fill="none" stroke="#2f6fa8" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#2f6fa8">
+    <circle cx="80" cy="360" r="7"/>
+    <circle cx="208" cy="123.2" r="7"/>
+    <circle cx="336" cy="328" r="7"/>
+    <circle cx="464" cy="300.8" r="7"/>
+    <circle cx="592" cy="364.8" r="7"/>
+    <circle cx="720" cy="427.2" r="7"/>
+  </g>
+
+  <!-- PCB (red) -->
+  <polyline points="80,360 208,313.6 336,340.8 464,427.2 592,472 720,499.2"
+            fill="none" stroke="#b23a2e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <g fill="#b23a2e">
+    <circle cx="80" cy="360" r="7"/>
+    <circle cx="208" cy="313.6" r="7"/>
+    <circle cx="336" cy="340.8" r="7"/>
+    <circle cx="464" cy="427.2" r="7"/>
+    <circle cx="592" cy="472" r="7"/>
+    <circle cx="720" cy="499.2" r="7"/>
+  </g>
+</svg>

@@ -27,7 +27,7 @@ gallery:
 
 # The problem
 
-Units were coming back from the field, and the two loudest complaints were "no power" and a broken power switch. Both had been treated as one-off hardware repairs. Nobody had asked the harder question: across everything that came back, what is actually breaking, and is it getting better?
+Units were coming back from the field, and the two loudest complaints were "no power" and a broken power switch. Both had been treated as one-off hardware repairs. The issue started smaller and grew before it was resolved — and nobody had asked the harder question: across everything that came back, what is actually breaking, and is it getting better?
 
 The repair log had two years of history, but only as a list of individual jobs — never something you could draw a conclusion from.
 
@@ -44,7 +44,9 @@ I classified every repair by what the technician actually replaced, not what the
 
 # What it found
 
-Working with the contract factory to isolate the cause, we traced the dominant "no power" failure to firmware rather than hardware — most of those units were fixed by reflashing the board, not replacing it. I helped drive and test the corrective board revision, and reflash repairs disappeared once it shipped.
+The first response to the failures was a board recall, issued before root cause analysis was complete: the affected units were replaced with a new board revision. That revision didn't resolve the issue — it needed even more firmware reflashes than the boards it replaced, and the failure rate climbed before it fell.
+
+I stepped in after that, working with the contract factory to trace the dominant "no power" failure to firmware rather than hardware — most of those units only needed a reflash, not a new board. I helped drive and validate a second, tested corrective board revision, and reflash repairs disappeared once it shipped.
 
 The switch failures were mechanical: the recurring note was sheared switch pins alongside a cracked bottom cap, a load-path problem rather than a contact one, which drove a redesign of the switch mechanism.
 
@@ -55,6 +57,7 @@ A separate teardown of one returned lot also found that more than one in five un
 * PCB-related warranty claims per unit shipped fell **84%** year over year
 * Switch-related claims fell **55%** over the same period
 * Total warranty claims per unit shipped fell **81%**, while shipment volume grew
+* Helped establish a review step requiring a completed root cause analysis before a corrective action ships across the full production run
 * The failure modes were designed out of the next-generation product
 
 ![Warranty claim rate trend, indexed to Q1 2025](/assets/img/warranty-trend.svg)

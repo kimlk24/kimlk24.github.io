@@ -24,7 +24,7 @@ feature_row:
     url: /portfolio/Lightbox/
     btn_label: "Read more"
     btn_class: "btn--primary"
-  - image_path: assets/img/warranty-method.svg
+  - image_path: assets/img/warranty-card-teaser.svg
     alt: "Warranty failure root cause analysis"
     title: "Warranty Failure Root Cause Analysis"
     excerpt: "Traced two years of warranty repairs against shipment records to cut PCB and switch claims 84% and 55%."
@@ -34,4 +34,8 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+<div class="text-center" markdown="0">
+  <a href="/portfolio/" class="btn btn--primary btn--large">See All Projects</a>
+</div>
 
