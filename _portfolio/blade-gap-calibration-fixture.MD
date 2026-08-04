@@ -19,7 +19,7 @@ gallery:
 
 # The problem
 
-The gap between a trimmer's moving and fixed blade sets determines how closely it cuts. Too tight and it irritates skin; too loose and the cut is imprecise. Getting that gap right out of the box is a persistent problem across the category, and the existing process depended on operator skill and feel, which made it slow and inconsistent from unit to unit.
+The gap between a trimmer's moving and fixed blade sets determines how closely it cuts. Too tight and it irritates skin; too loose and the cut is imprecise. Getting that gap right out of the box is a persistent problem across the industry, and the existing process depended on operator skill and feel, which made it slow and inconsistent from unit to unit.
 
 # Requirements
 
