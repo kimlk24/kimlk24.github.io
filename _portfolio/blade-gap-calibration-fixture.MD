@@ -19,7 +19,7 @@ gallery:
 
 # The problem
 
-The gap between a clipper's moving and fixed blade sets determines how closely it cuts. Too tight and it irritates skin; too loose and the cut is imprecise. Getting that gap right out of the box is a persistent problem across the category, and the existing process depended on operator skill and feel, which made it slow and inconsistent from unit to unit.
+The gap between a trimmer's moving and fixed blade sets determines how closely it cuts. Too tight and it irritates skin; too loose and the cut is imprecise. Getting that gap right out of the box is a persistent problem across the category, and the existing process depended on operator skill and feel, which made it slow and inconsistent from unit to unit.
 
 # Requirements
 
@@ -38,7 +38,7 @@ Custom software I wrote runs on a small form factor PC, coordinates the sequence
 
 * Precision improved from ±0.05 mm to **±0.005 mm**, a **10x** improvement
 * Cycle time fell from 2.5 minutes to **30 seconds**, **80% faster**
-* Adopted by our manufacturing partner as a standing QC step
+* Adopted by our manufacturing partner as a standing calibration and QC step
 
 <!-- TODO Luke: add a "What I would change" section with the fixture's honest limitation.
      Interviewers ask this and a real answer beats a polished one.
