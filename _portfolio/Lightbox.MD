@@ -1,6 +1,7 @@
 ---
-title: "Lightbox Testing Fixture"
-excerpt: "A modification to an existing fixture to increase the ease of use and consinsency."
+title: "Solar Panel Test Fixture"
+excerpt: "A retrofit to an existing production test fixture that made solar panel testing faster and more consistent."
+weight: 3
 header:
   image: /assets/img/Lightbox page banner picture.jpg
   teaser: assets/img/Lightbox teaser picture.jpg
@@ -9,24 +10,34 @@ gallery:
   - image_path: assets/img/Installed lightbox modification.jpg
 ---
 
-# Features
+<!-- TODO Luke: confirm this was Cambridge Mobile Telematics and add the month/year. -->
 
-* Fully customized solar panel testing fixture modification to decrease inconsistencies during testing and increaeing the ease of use using a slider mechanism and magnetic door.
+*Mechanical Engineering Intern &middot; Cambridge Mobile Telematics &middot; Summer 2023*
 
-# What?
+# The problem
 
-* Current solar panel testing fixture for IoT product is slow to operate and cumbersome to use
-* The current lightbox cannot be drilled and the modification must be made within a week
+The existing lightbox used to test solar panels on an IoT product was slow to operate and awkward to load. Because each device had to be positioned by hand, results varied with how carefully the operator seated it, and the fixture sat on the critical path of the assembly line.
 
+# Constraints
 
-# How?
+* The existing lightbox could not be drilled or permanently modified, so the retrofit had to use pre-existing mounting holes
+* The line could not be taken down, so the change had to install during a normal changeover
+* One week from concept to installed hardware
 
-* Utilized **Onshape** to design a lightbox modification with sliding tray using pre-existing holes for mounting
-* **Rapidly prototyped** custom parts by utilizing **3D printers**
+# Approach
+
+A sliding tray carries the device into a repeatable position inside the box, so the operator no longer has to reach in and seat it by hand. A magnetic door closes the light path without fasteners, which keeps the loading motion to a single pull-and-push. Every mounting point reuses a hole that already existed on the enclosure.
 
 # Results
 
-* Created a functional lightbox modification which increased the ease of use and efficiency to test multiple devices by providing a sliding tray for better access to the device before the assembly line resumed
+* Devices seat in a repeatable position, removing the operator-to-operator variation in how each unit was placed
+* Loading and unloading collapsed to a single sliding motion, letting more devices move through per changeover
+* Designed, printed, and installed inside the **one week** available, without downtime on the line
 
+<!-- TODO Luke: if you measured before/after cycle time or scrap on this fixture, add the numbers here. -->
+
+# Tools
+
+Onshape, 3D printing
 
 {% include gallery caption="" %}

@@ -1,6 +1,7 @@
 ---
 title: "Assistive Clothing Buttoner"
-excerpt: "Assistive cothing tool to help users with limited fine motor abilities to fasten and unbutton buttons."
+excerpt: "Assistive clothing tool to help users with limited fine motor abilities to fasten and unbutton buttons."
+weight: 11
 header:
   teaser: assets/img/button teaser.png
 gallery:
@@ -11,24 +12,29 @@ gallery:
 ---
 ![Device](/assets/img/button teaser.png)
 
+<!-- TODO Luke: team project or coursework? add the term/year. -->
+
+*Team project*
+
 # Features
 
-* Fully customized solar panel testing fixture modification to decrease inconsistencies during testing and increaeing the ease of use using a slider mechanism and magnetic door.
+* Handheld assistive tool that lets users with limited fine motor ability fasten and unfasten buttons on everyday clothing, developed with the end user and refined for appearance as well as function.
 
-# What?
+# The problem
 
-* Design and fabricate a tool which allows users with limited fine motor skills to fasten/unfasten buttons on common clothing
-* Work directly with end users to create an effective and stylish product
+Standard buttons require fine motor coordination that not everyone has. The goal was a tool that let users with limited fine motor skills fasten and unfasten buttons on common clothing independently, designed directly with end users so it stayed both effective and stylish rather than purely functional.
 
-# How?
+# Approach
 
-* Used **SolidWorks** to model and visualize the solution
-* Brainstormed a variety of ideas within a group to determine initial mechanism.
-* **Rapidly prototyped** using cardboard and glue, then laser cutting, and finally 3D printing
+Our group brainstormed a range of mechanisms before committing to one, then modeled and visualized the chosen solution and prototyped it in three stages, from cardboard and glue, to laser cut parts, to 3D printing.
 
 # Results
 
-* Enabled the users to individually fasten buttons using our tool
-* Satisfied aesthetic goals of the end product
+* **Enabled users to fasten their own buttons independently**
+* Met the aesthetic goals the end user set, not just the functional ones
+
+# Tools
+
+SolidWorks, laser cutting, 3D printing
 
 {% include gallery caption="" %}

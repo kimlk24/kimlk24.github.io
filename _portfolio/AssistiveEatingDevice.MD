@@ -1,6 +1,7 @@
 ---
 title: "Assistive Eating Device"
 excerpt: "A device which helps people with feeding tubes and clubbed arms be able to feed themselves independently."
+weight: 10
 header:
   image:
   teaser: /assets/img/Food final.png
@@ -20,21 +21,25 @@ gallery:
 
 ![Final Prototype](/assets/img/Food final.png)
 
-# What?
+<!-- TODO Luke: team project or coursework? add the term/year. -->
 
-* Enable people with physical disabilities and feeding tubes to feed themselves independently
-* Create universal designs to allow people with a variety of disabilities to use the product
+*Team project*
 
-# How?
+# The problem
 
-* Brainstormed with a group to utilize a rack and pinon system to squeeze food from a pouch
-* Rapidly prototyped proof of concepts and utilized **SolidWorks** and **laser cutters**
+People with feeding tubes and clubbed arms often cannot use standard utensils, and most assistive devices are designed for one specific disability rather than a range of them.
+
+# Approach
+
+Our group brainstormed mechanisms before settling on a rack-and-pinion system to squeeze food from a pouch, designed around universal use rather than one specific condition. We rapidly prototyped through several stages, from cardboard mockups to laser-cut parts, before arriving at the final design.
+
 # Results
 
-* Successfully designed and fabricated an assistive eating device
-* Enabled the user to feed himself for the first time in their life
+* Designed and fabricated a working assistive eating device
+* **Enabled the user to feed himself for the first time in his life**
 
+# Tools
+
+SolidWorks, laser cutting, 3D printing
 
 {% include gallery caption="" %}
-
-

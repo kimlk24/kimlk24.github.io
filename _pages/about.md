@@ -1,44 +1,55 @@
 ---
-
 title: "About Luke Kim"
-
+permalink: /about/
 ---
+
 ## About
-I have a product engineering firm specializing in electromechanical devices and software based products. I recently graduated from Vanderbilt University studying mechanical engineering with a minor in digital fabrication. My most prominent fields of expertise are additive manufacturing (i.e., 3D printing), mechatronics, and CAD software. But my diverse experience in electrical engineering, business, and finance helps me to approach mechanical engineering problems more holistically.
+
+I am a product development engineer at COCCO Hair Professional, where I take consumer electronics from concept through high-volume overseas production. My work spans mechanical design, electronics, and software: CAD and injection-molded part development with ODM partners, rapid prototyping, custom PCBs and embedded firmware, root cause analysis, and instrumented product testing.
+
+I graduated from Vanderbilt University in 2024 with a degree in mechanical engineering and a minor in digital fabrication. My strongest areas are additive manufacturing, mechatronics, and CAD, and my background in electrical engineering, business, and finance helps me approach mechanical problems more holistically.
+
+I am based near Cleveland, Ohio and relocating to Boston, Massachusetts.
 
 ## Education
 
 * Vanderbilt University
-  * BE Mechanical Engineering May 2024
+  * BE Mechanical Engineering, Minor in Digital Fabrication — May 2024
 
 ## Technical Skills
 
-Luke can operate a number of different softwares including SolidWorks, Fusion 360, MATLAB, Arduino IDE, and much more. Additionally, he has various experince using prototyping tools such as:
+**CAD and analysis:** SolidWorks, Onshape, Fusion 360, Ansys, Altium Designer
 
-* Fused Filament Fabrication (FFF)
-* Laser Cutting
-* Wiring tools (soldering iron, crimpers, breadboards, etc.)
-* Woodworking tools (saws, power tools, specialty tools)
+**Electronics and software:** Custom PCB design, Arduino and ESP32 firmware, MATLAB, Python, LabVIEW
 
-## Recent Work Experience
+**Prototyping and manufacturing:** Fused filament fabrication (FFF), laser cutting, CNC, fixture design, GD&T, first-article inspection, wiring and soldering, woodworking tools
 
-### Mechanical engineering intern
-Cambridge Mobile Telematics (June 2024-August 2024)
-* Utilized Onshape to design new IoT products and created new manufacturing fixtures to improve assembly efficiency
-* Conducted RCA to resolve field and manufacturing failures, improve manufacturing processes, and streamline testing
-* Designed 3D printable device housing with suction cup mounts for seamless testing during new material changes
+## Work Experience
+
+### Product Development Engineer
+COCCO Hair Professional (June 2024 – Present)
+* Direct product development across trimmer, clipper, and dryer programs from concept through manufacturing release; the newest product ships roughly 20,000 units per month
+* Designed a robotic calibration fixture that improved precision tenfold and cut cycle time by 80%, now adopted by the factory as a QC step
+* Lead root cause analysis on field and line failures, and redesign high-failure components with overseas factory partners
+* Conduct line audits and first-article inspections on repeated visits to manufacturing partners in China
+
+### Mechanical Engineering Intern, IoT Devices
+Cambridge Mobile Telematics (June 2023 – August 2023)
+* Designed new IoT product components and manufacturing fixtures in Onshape to improve assembly efficiency
+* Conducted root cause analysis to resolve field and manufacturing failures, improve manufacturing processes, and streamline testing
+* Designed 3D printable device housings with suction cup mounts for seamless testing during new material changes
 * Developed a specialized battery charger/discharger PCB using Altium Designer and Arduino to aid in battery testing
 
-### Research Intern
-Vanderbilt University (December 2020-Current)
-* Research radiation effects in silicon carbide semiconductor material to validate space applications for a NASA grant 
-* Quickly achieved proficiency to use relevant lab equipment such as micromanipulator probes and power supplies
-* Reduced testing time over 80% by designing a microscope adapter, a custom PCB, and integrating LabView code
-* Investigated novel findings from original research to now lead research in room temperature recovery of defects
+### Space Applications Research Intern
+Vanderbilt University, SCALE Program (December 2020 – May 2024)
+* Researched radiation effects in silicon carbide semiconductor material to validate space applications under a NASA grant
+* Reduced testing time over 80% by designing a microscope adapter and a custom PCB and integrating LabVIEW automation
+* Gained proficiency with lab equipment including micromanipulator probes and power supplies
 
 ## Certifications
-SolidWorks Associate Certification for Mechanical Design
 
-## Portriat 
+Certified SolidWorks Associate (CSWA), Mechanical Design
+
+## Portrait
 
 <img src="/assets/img/PS-pic-JPEG.jpeg" alt="Luke Kim" style="width:200px;"/>

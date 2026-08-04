@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 460" font-family="Helvetica, Arial, sans-serif">
+  <rect x="0" y="0" width="1000" height="460" fill="#ffffff"/>
+
+  <text x="500" y="34" text-anchor="middle" font-size="20" font-weight="600" fill="#2b2b2b">Warranty claim rate, indexed to Q1 2025</text>
+  <text x="500" y="56" text-anchor="middle" font-size="13" fill="#8a8a8a">Claims per unit shipped. Both series set to 100 in the first quarter, so only the shape of change is shown.</text>
+
+  <!-- gridlines: value 0,50,100,150,200,250 mapped to y -->
+  <g stroke="#e6e6e6" stroke-width="1">
+    <line x1="90" y1="330" x2="930" y2="330"/>
+    <line x1="90" y1="276" x2="930" y2="276"/>
+    <line x1="90" y1="222" x2="930" y2="222"/>
+    <line x1="90" y1="169" x2="930" y2="169"/>
+    <line x1="90" y1="115" x2="930" y2="115"/>
+    <line x1="90" y1="61" x2="930" y2="61"/>
+  </g>
+  <g font-size="12" fill="#8a8a8a" text-anchor="end">
+    <text x="82" y="334">0</text>
+    <text x="82" y="280">50</text>
+    <text x="82" y="226">100</text>
+    <text x="82" y="173">150</text>
+    <text x="82" y="119">200</text>
+    <text x="82" y="65">250</text>
+  </g>
+
+  <!-- baseline reference at 100 -->
+  <line x1="90" y1="222" x2="930" y2="222" stroke="#b0b0b0" stroke-width="1.5" stroke-dasharray="6,4"/>
+  <text x="936" y="226" font-size="11" fill="#9a9a9a">baseline</text>
+
+  <!-- x axis -->
+  <line x1="90" y1="330" x2="930" y2="330" stroke="#c9c9c9" stroke-width="1.5"/>
+  <g font-size="13" fill="#4a4a4a" text-anchor="middle">
+    <text x="90" y="352">Q1 '25</text>
+    <text x="258" y="352">Q2 '25</text>
+    <text x="426" y="352">Q3 '25</text>
+    <text x="594" y="352">Q4 '25</text>
+    <text x="762" y="352">Q1 '26</text>
+    <text x="930" y="352">Q2 '26*</text>
+  </g>
+
+  <!-- PCB / no-power series: 100, 129, 112, 57, 30, 13 -->
+  <polyline points="90,222.3 258,190.9 426,208.9 594,270.9 762,300.7 930,317.2"
+            fill="none" stroke="#b23a2e" stroke-width="3"/>
+  <g fill="#b23a2e">
+    <circle cx="90" cy="222.3" r="4"/>
+    <circle cx="258" cy="190.9" r="4"/>
+    <circle cx="426" cy="208.9" r="4"/>
+    <circle cx="594" cy="270.9" r="4"/>
+    <circle cx="762" cy="300.7" r="4"/>
+    <circle cx="930" cy="317.2" r="4"/>
+  </g>
+  <g font-size="12" fill="#b23a2e" text-anchor="middle">
+    <text x="90" y="210">100</text>
+    <text x="258" y="178">129</text>
+    <text x="426" y="193">112</text>
+    <text x="594" y="284">58</text>
+    <text x="762" y="315">30</text>
+    <text x="930" y="332">13</text>
+  </g>
+
+  <!-- Switch series: 100, 248, 120, 137, 97, 58 -->
+  <polyline points="90,222.3 258,62.9 426,200.9 594,182.6 762,225.4 930,267.4"
+            fill="none" stroke="#2f6fa8" stroke-width="3"/>
+  <g fill="#2f6fa8">
+    <circle cx="90" cy="222.3" r="4"/>
+    <circle cx="258" cy="62.9" r="4"/>
+    <circle cx="426" cy="200.9" r="4"/>
+    <circle cx="594" cy="182.6" r="4"/>
+    <circle cx="762" cy="225.4" r="4"/>
+    <circle cx="930" cy="267.4" r="4"/>
+  </g>
+  <g font-size="12" fill="#2f6fa8" text-anchor="middle">
+    <text x="258" y="82">248</text>
+    <text x="426" y="222">120</text>
+    <text x="594" y="170">137</text>
+    <text x="762" y="240">97</text>
+    <text x="930" y="255">58</text>
+  </g>
+
+  <!-- legend -->
+  <g font-size="13" fill="#2b2b2b">
+    <rect x="300" y="384" width="14" height="14" fill="#b23a2e"/>
+    <text x="322" y="395">PCB / no-power claims</text>
+    <rect x="540" y="384" width="14" height="14" fill="#2f6fa8"/>
+    <text x="562" y="395">Switch claims</text>
+  </g>
+
+  <!-- caption -->
+  <text x="500" y="424" text-anchor="middle" font-size="12" fill="#8a8a8a">Switch counts are small each quarter (6&#8211;33 claims), so its index swings more than PCB's.</text>
+  <text x="500" y="442" text-anchor="middle" font-size="12" fill="#8a8a8a">*Q2 2026 is a partial quarter (April&#8211;May only).</text>
+</svg>

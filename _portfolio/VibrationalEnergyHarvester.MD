@@ -1,6 +1,7 @@
 ---
 title: "Vibrational Energy Harvester"
 excerpt: "A proof of concept device which converts vibrational energy into usable electrical energy in the form of an LED."
+weight: 8
 header:
   image:
   teaser: /assets/img/vibration housing CAD.png
@@ -21,23 +22,26 @@ gallery:
 
 ---
 
-![Final Prototype](/assets/img/Food final.png)
+![Final Prototype Housing](/assets/img/vibration housing CAD.png)
 
-# What?
+*Research internship &middot; Case Western Reserve University &middot; 2018&ndash;2019*
 
-* Design a vibrational energy powered LED as a proof of concept for using vibration energy generators to power nano scale electronics
-* Utilize piezoelectric material to convert vibrations to electrical energy
+# The problem
 
-# How?
+Nano-scale electronics need a power source, and ambient vibration is one option if it can be converted to usable electrical energy efficiently enough. The goal was a proof-of-concept vibration-powered LED using piezoelectric material to make that conversion.
 
-* Characterized piezoelectric discs to understand how to best capture vibrational energy
-* Researched and designed a **custom PCB** using **Altium designer**
-* Utilized **Autodesk Fusion 360** to design the device packaging
+# Approach
+
+I characterized piezoelectric discs to understand how to best capture the available vibrational energy, researched and designed a custom PCB for the harvesting and conditioning circuit, and designed the device packaging around the disc stack and board.
 
 # Results
 
-* Successfully created a vibrational energy powered LED
-* Presented research and findings at a research symposium
+* Built a working vibration-powered LED as proof that harvested vibration can drive nano scale electronics
+* Presented the research and findings at a research symposium
+
+# Tools
+
+Altium Designer, Fusion 360, piezoelectric characterization
 
 
 {% include gallery caption="" %}

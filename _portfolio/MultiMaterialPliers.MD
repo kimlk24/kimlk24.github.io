@@ -1,6 +1,7 @@
 ---
 title: "Multi Material Pliers"
 excerpt: "Multi material print-in-place pliers made of PLA and TPU to pick and place through hole resistors."
+weight: 6
 header:
   image:
   teaser: /assets/img/Pliers render.jpg
@@ -19,27 +20,30 @@ gallery:
 
 ![Rendering of the multi material pliers](/assets/img/Pliers render.jpg)
 
+<!-- TODO Luke: personal project or coursework? add the term/year. -->
+
+*Personal project*
+
 # Features
 
-* **Print-in-place multi material design** allowing for simple all in one fabrication while taking advantage of 3D printing techniques to add features such as fully enclosed skeleton and TPU handle grips. 
-* Capable of picking and placing through hole resistors and being used as a general set of low strength plies. 
+* **Print-in-place** multi material design requiring **zero assembly** after printing, using design-for-additive techniques to add a fully enclosed skeleton and TPU handle grips.
+* Capable of picking and placing through hole resistors and being used as a general set of low strength pliers.
 
-# What?
+# The problem
 
-* Most projects today are made from multiple materials. For example, a classic pair of needle nose pliers consist of a metal mechanism with normally a rubberized grip. 
-* Print-in-place is a 3D printing technique where the 3D printed part does not require any extra parts and/or assembly after being printed and can immediately be used. For example, this image displays a print in place chainmail mesh which once printed required so manual linking of each chain, but rather is configured in the printing design to be fully ready to use once printed.
-* If you have seen recent movies like Spider-man or Iron man, there are fabrication machines depicting the superhero designing a new suit, and having the fabricator make it for them in just a few moments all ready to go. Combining the techniques of print-in-place and multi material printing is one of the closest ways we can achieve the superhero fabricator magic with the use of a 3D printer.
-* To have successful multi material prints, the materials which you use should have similar cooling/shrinkage properties, similar surface energy, and similar intermolecular forces to ensure sufficient bonding.
-* The goal of this project is to create a print-in-place pliers using PLA and TPU which returns to the open position when not in use.
+Most everyday tools, like a classic pair of needle nose pliers, combine a rigid mechanism with a rubberized grip — two materials that normally have to be assembled together after they're made. Print-in-place multi-material printing can produce that same combination as one part straight off the bed, with no assembly step at all, if the materials are chosen carefully. The goal here was a print-in-place pliers in PLA and TPU that returns to the open position on its own when released.
 
-# How?
+# Approach
 
-* Used **CAD software** such as **Fusion 360** to design a print-in-place pliers using multi material 3D printing.
-* Utilized multi material concepts like fully enclosing materials which through normal manufacturing methods are almost impossible to take advantage of layer by layer manufacturing. 
+Successful multi-material prints need materials with compatible cooling and shrinkage behavior, similar surface energy, and similar intermolecular forces so the layers actually bond instead of delaminating. I chose PLA and TPU for that compatibility, then designed the pliers to fully enclose a PLA skeleton inside a TPU handle grip — a construction that is straightforward in layer-by-layer fabrication but close to impossible with conventional manufacturing.
 
 # Results
 
-* Successfully designed and printed a set of print-in-place pliers which could be used right after being made and can effectively pick and place through hole resistors.
+* Designed and printed a set of pliers usable **straight off the print bed with no assembly**, able to pick and place through hole resistors
+
+# Tools
+
+Fusion 360, multi material 3D printing (PLA and TPU)
 
 # Design Specifications
 

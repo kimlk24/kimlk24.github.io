@@ -1,6 +1,7 @@
 ---
 title: "Water gun alarm clock"
 excerpt: "A fun way to get stubborn sleepers out of bed!"
+weight: 13
 header:
   image:
   teaser: /assets/img/WGP real life.png
@@ -21,19 +22,25 @@ gallery:
 
 ![Current prototype](/assets/img/WGP real life.png)
 
-# What?
+<!-- TODO Luke: personal project or coursework? add the term/year. -->
 
-* Design and fabricate an alarm clock actuated water gun to help promote consistent sleep routines
-* Rapidly prototype iterations to determine most effective mechanism
+*Personal project*
 
-# How?
+# The problem
 
-* Designed a 2-axis pan tilt mechanism based on **DFM/A** using **SolidWorks**
-* Coded an **Arduino** to integrate stepper motors, servos, LCD screen, speaker, and DC motors
+Snoozing through an alarm is easy when the only consequence is sound. The goal was an alarm clock that makes ignoring it a much worse option, by aiming a water gun at whoever is still in bed.
+
+# Approach
+
+I designed a 2-axis pan-tilt mechanism with design-for-manufacture and assembly in mind, then wrote firmware integrating stepper motors, servos, an LCD screen, a speaker, and DC motors to control it. I rapidly prototyped across three iterations to land on the most reliable mechanism.
 
 # Results
 
-* Utilized **additive manufacturing** processes such as 3D printing and laser cutting to create physical prototypes of the mechanism integrated with a water gun, light, sounder, and screen.
+* Built physical prototypes across **three iterations**, integrating the mechanism with a water gun, light, sounder, and screen
+
+# Tools
+
+SolidWorks, Arduino, 3D printing, laser cutting
 
 # Future
 

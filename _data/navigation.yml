@@ -3,7 +3,9 @@ main:
   - title: "Portfolio"
     url: /portfolio/
   - title: "About"
-    url: /_pages/about
+    url: /about/
+  - title: "Resume"
+    url: /assets/Luke_Kim_Resume.pdf
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

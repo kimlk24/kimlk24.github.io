@@ -1,6 +1,7 @@
 ---
 title: "Amazon Robotics Work in Progress Buffer"
 excerpt: "A proof of concept device which aims to temporarily organize, store, and reintroduce packages to allow a robotic arm to continue to autonomously sort packages."
+weight: 4
 header:
   image:
   teaser: /assets/img/AR teaser.png
@@ -23,28 +24,34 @@ gallery:
 
 ![CAD Rendering](/assets/img/AR Main assembly WIP buffer with camera stand.png)
 
-# What?
+*Senior capstone, team project for Amazon Robotics &middot; Vanderbilt University &middot; September 2023 &ndash; May 2024*
 
-* Cardinal is a pick and place robot to sort packages
-* A percentage of packages Cardinal sorts through are put in an exception cart to be manually sorted
-* Adding a temporary automated storage buffer can decrease manual sorting and keep the robot working in heavy loads
+# The problem
 
-# How?
+Cardinal, Amazon Robotics' pick-and-place sorter, routes a percentage of the packages it handles into a manual exception cart whenever it cannot confidently place one. Under heavy load, that cart backs up faster than a person can clear it, so Cardinal effectively idles while it waits on manual sorting to catch up.
 
-* Used **CAD software** such as **Onshape** to design custom adapters, frames, and assemblies to ensure successful prototyping
-* **Rapidly prototyped** custom parts by utilizing **3D printers** and **laser cutters**
-* **Programmed** and **wired** stepper motors to create custom conveyor belts using **Arduino**, **python**, and **computer vision** techniques
+# Requirements
+
+* Buffer exception packages temporarily without permanently removing them from the sort
+* Reintroduce buffered packages automatically once Cardinal has capacity again
+* Run standalone hardware and software, sponsor-facing deliverable within a two-semester capstone
+
+# Approach
+
+Our team designed a four-conveyor buffer arranged in a loop: exception packages ride the loop instead of a manual cart, and get released back to Cardinal as slots open up. I designed the custom adapters, frames, and belt assemblies, rapidly prototyping every part on 3D printers and laser cutters and iterating from an early concept model up to the final assembly shown below. I also programmed and wired the stepper motors driving the conveyors and integrated the computer vision that identifies and tracks packages as they cycle through the loop.
 
 # Results
 
-* Successfully designed, built, and tes﻿ted programmable conveyor belts to organize packages
-* Created a proof of concept to show that a﻿ set of 4 conveyor belts can organize items in a loop
-* Presented poster presentation and created a white paper to present to Amazon Robotics
+* Built and tested a working 4-conveyor buffer that organizes packages in a closed loop
+* Projected to reduce manual exception handling **75%**
+* Presented a poster and delivered a white paper to Amazon Robotics
+
+# Tools
+
+Onshape, 3D printing, laser cutting, Arduino, Python, computer vision
 
 # CAD Model
 
 <iframe src="https://vanderbilt289.autodesk360.com/shares/public/SHd38bfQT1fb47330c999c58300a8ae1cadb?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="" %}
-
-

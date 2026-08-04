@@ -1,6 +1,8 @@
 ---
 title: "Hydrogen Generator to Decrease Car Emissions"
 excerpt: "Created an electric powered hydrogen generator to inject hydrogen gas to the air intake of a car to increase fuel economy and decrease car emissions."
+weight: 99
+hidden: true
 header:
   image:
   teaser: /assets/img/hydrogen generator.png
@@ -17,19 +19,22 @@ gallery:
 
 ![Rendering of the Hydrogen Generator](/assets/img/hydrogen generator.png)
 
-# What?
+# The problem
 
-* Through using the method of electrolysis, convert water into usable hydrogen gas to reduce carbon emissions from road vehicles and improve the fuel efficiency.
+Injecting a small amount of hydrogen into a car's air intake can improve combustion efficiency, but only if it can be generated on demand from something as simple as water.
 
-# How?
+# Approach
 
-* Created a water based hydrogen generator utilizing electrolysis principals and designed using **Autodesk Fusion 360**.
-* Rapidly prototyped and tested hydrogen generator to act as a proof of concept
+I built a water-based hydrogen generator using electrolysis and rapidly prototyped and tested it as a proof of concept.
 
 # Results
 
-* Successfully designed and fabricated a hydrogen generator
-* Utilized Fusion 360 to make photorealistic model the generator and presented final results orally and in a written report
+* Designed and fabricated a working hydrogen generator
+* Produced a photorealistic model of the generator and presented the findings orally and in a written report
+
+# Tools
+
+Autodesk Fusion 360
 
 
 {% include gallery caption="" %}
